@@ -22,6 +22,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.6",
+    "react-test-renderer": "^16.4.1",
     "redux": "^3.6.0",
     "redux-thunk": "2.2.0",
     "thunk": "0.0.1"
@@ -29,7 +30,7 @@
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "6.24.1",
-    "babel-loader": "7.0.0",
+    "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "6.24.1",
